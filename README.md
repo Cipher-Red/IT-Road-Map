@@ -84,5 +84,3 @@ Each section is organized by **Level (L)**, **Duration**, and **Type**.
 - **Power BI Intro** – [ClassCentral](https://www.classcentral.com/course/coursera-powerbi-for-beginners-data-transformation-391082) *(Specialization)*
 
 ---
-
-## 📂 Repository Structure
